@@ -33,5 +33,6 @@
         "classmap": [
             "php/index.php"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
